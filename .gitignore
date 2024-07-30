@@ -1,0 +1,8 @@
+# API vendor directory
+/vendor
+
+# API public/storage directory
+/public/storage
+
+# environment variables
+.env
